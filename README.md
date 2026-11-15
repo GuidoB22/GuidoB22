@@ -4,51 +4,37 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=%3E+Initializing+hyperdrive...;%3E+Designing+microservices+across+the+galaxy;%3E+Hexagonal+architecture%2C+any+star+system;%3E+May+the+source+be+with+you+%E2%9C%A8" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+engineering+with+Java+%26+Spring+Boot;Event-driven+microservices+with+Kafka;Clean+%26+hexagonal+architecture" alt="Focus areas" />
 </p>
 
 ---
 
-### 🛰️ Captain's Log
+### About me
 
-```text
-STARDATE  2026.11
-VESSEL    GuidoB22
-ROLE      Software Engineer · on the road to Software Architect
-MISSION   Build backend systems that survive contact with production
-```
+Software Engineer focused on backend development and cloud-native microservices, currently growing toward a Software Architect role.
 
-- 🌌 Exploring **distributed systems**, event-driven design and clean/hexagonal architecture.
-- 🔭 Currently charting: **Spring Boot**, **Kafka** and cloud-native microservices.
-- 🧪 Side quests: embedded hardware prototypes and knowledge systems.
-- 📡 Open to conversations about architecture, mentoring and backend craft.
+- Designing **distributed systems**, event-driven architectures and clean/hexagonal codebases.
+- Working with **Java**, **Spring Boot** and **Kafka**.
+- Interested in software architecture, mentoring and engineering best practices.
 
-### ⚙️ Ship Systems
+### Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,git,github,linux,idea&theme=dark" alt="Tech stack" />
 </p>
 
-### 📡 Telemetry
+### GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GuidoB22&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
-### 🚀 Galactic Defense Log
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuidoB22/GuidoB22/output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuidoB22/GuidoB22/output/galaga-contribution-graph.svg">
-    <img alt="Galaga-style ship shooting at my contribution graph" src="https://raw.githubusercontent.com/GuidoB22/GuidoB22/output/galaga-contribution-graph.svg">
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/GuidoB22/GuidoB22/output/galaga-contribution-graph.svg">
   </picture>
-</p>
-
----
-
-<p align="center">
-  <i>"Live long and deploy."</i> 🖖
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0b1d3a,100:000000&height=100&section=footer" width="100%" alt="" />
