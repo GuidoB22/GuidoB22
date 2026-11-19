@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0b1d3a,100:1f6feb&height=200&section=header&text=Guido%20Besozzi&fontSize=56&fontColor=e6edf3&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Java%20%C2%B7%20Cloud%20Microservices&descAlignY=58&descSize=18&animation=fadeIn" alt="Guido Besozzi" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+engineering+with+Java+%26+Spring+Boot;Event-driven+microservices+with+Kafka;Clean+%26+hexagonal+architecture" alt="Focus areas" />
-</p>
-
 ---
 
 ### About me
